@@ -7,10 +7,7 @@
 Simple script that downloads the [No Agenda](http://noagendashow.com/) show podcast with [Adam Curry](http://curry.com/) and [John C. Dvorak](http://www.dvorak.org/blog/).
 
 ## Dependencies
-The script depends on
-
-* `bash`
-* `wget`
+This is a `bash` script.
 
 ## Usage
 
