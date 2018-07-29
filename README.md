@@ -9,5 +9,5 @@ Simple script that downloads the [No Agenda](http://noagendashow.com/) show with
 To run daily
 
 ```
-@daily cd /path/to/script && /bin/bash get_podcasts.sh
+@weekly cd /path/to/script && /bin/bash get_podcasts.sh
 ```
