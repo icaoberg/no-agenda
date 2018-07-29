@@ -6,7 +6,7 @@ Simple script that downloads the [No Agenda](http://noagendashow.com/) show with
 
 ## Usage
 
-To run daily
+To run weekly, add to your [crontab](https://en.wikipedia.org/wiki/Cron)
 
 ```
 @weekly cd /path/to/script && /bin/bash get_podcasts.sh
